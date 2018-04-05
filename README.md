@@ -1,5 +1,4 @@
 # helloworld
 
-Hello,
+Making some change to the file to check how it works
 
-This is Santosh, started learning Git and this is my first project.
